@@ -1,0 +1,1 @@
+export * as subCategoryAPI from './subCategory'

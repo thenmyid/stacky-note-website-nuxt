@@ -1,0 +1,5 @@
+export const setDrawer : string = 'setDrawer'
+export const toggleDrawer : string = 'toggleDrawer'
+export const SET_STACK_SUMMARY : string = 'SET_STACK_SUMMARY'
+export const SET_NOTE_SUMMARY : string = 'SET_NOTE_SUMMARY'
+export const SET_IN_ACTIVE_TAB : string = 'SET_IN_ACTIVE_TAB'

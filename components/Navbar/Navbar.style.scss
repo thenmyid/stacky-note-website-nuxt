@@ -1,0 +1,21 @@
+.ods-navbar{
+  &.navbar-dark .navbar-nav .nav-link {
+    &:hover{
+      color: #e1e1e1;
+    }
+    color: var(--white);
+  }
+  .dropdown-menu{
+    background: var(--success);
+  }
+  .dropdown-item{
+    &:hover{
+      color: var(--success);
+      background-color: var(--light);
+    }
+    color: var(--white);
+  }
+  .stack-category-navbar{
+    margin-right: 15px;
+  }
+}
